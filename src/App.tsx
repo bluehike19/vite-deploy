@@ -22,6 +22,9 @@ function App() {
           <BsFillHeartFill className="heart" />
         </h2>
       </div>
+      <a href="https://simo6lues.github.io/portfolio/" className="button">
+        Go back
+      </a>
     </>
   );
 }
